@@ -1,5 +1,7 @@
 from Stack import Stack
 
+import ipdb
+
 class TestStack:
     '''Class Stack in Stack.py'''
 
